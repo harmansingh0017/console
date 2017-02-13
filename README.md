@@ -1,0 +1,2 @@
+# console
+hi everyone
